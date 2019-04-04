@@ -28,5 +28,3 @@ Number of Attributes: 21
 19. Height
 20. Body mass index
 21. Absenteeism time in hours
-
-## FOR OVER ALL ANALYSIS PLEASE CHECK THE PROJECT REPORT
